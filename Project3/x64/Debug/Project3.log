@@ -1,0 +1,9 @@
+﻿  Patient.cpp
+ms51_test.obj : error LNK2005: "void __cdecl copyFile(char const *,char const *)" (?copyFile@@YAXPEBD0@Z) already defined in main.obj
+ms51_test.obj : error LNK2005: "void __cdecl displayFile(char const *)" (?displayFile@@YAXPEBD@Z) already defined in main.obj
+ms51_test.obj : error LNK2005: main already defined in main.obj
+ms52_test.obj : error LNK2005: "void __cdecl copyFile(char const *,char const *)" (?copyFile@@YAXPEBD0@Z) already defined in main.obj
+ms52_test.obj : error LNK2005: "void __cdecl displayFile(char const *)" (?displayFile@@YAXPEBD@Z) already defined in main.obj
+ms52_test.obj : error LNK2005: "void __cdecl theApp(void)" (?theApp@@YAXXZ) already defined in main.obj
+ms52_test.obj : error LNK2005: main already defined in main.obj
+C:\Users\merez\OneDrive\Desktop\C++\Milestone5\Project3\x64\Debug\Project3.exe : fatal error LNK1169: one or more multiply defined symbols found
